@@ -1,0 +1,9 @@
+Host: https://mttv.github.io/
+Sitemap: https://mttv.github.io/sitemap.xml
+
+User-agent: *
+Allow: /*/*.js
+Allow: /*/*.css
+Allow: /*/*.png
+Allow: /*/*.jpg
+Allow: /*/*.svg
