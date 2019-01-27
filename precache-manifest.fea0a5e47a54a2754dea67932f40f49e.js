@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/fa-regular-400.5a4618f0.eot"
   },
   {
-    "revision": "aaa00878c59bb9b2cc04",
+    "revision": "1bffc5d6ae80de8e0b5a",
     "url": "/static/css/main.507ff563.chunk.css"
   },
   {
@@ -44,20 +44,24 @@ self.__precacheManifest = [
     "url": "/static/media/screen_4.7ed16287.png"
   },
   {
-    "revision": "d034c1b2ee84dd981ef2e637754a0b4f",
-    "url": "/static/media/fa-brands-400.d034c1b2.woff"
-  },
-  {
     "revision": "e2a76403183eff8967cf6318c6e51509",
     "url": "/static/media/fa-brands-400.e2a76403.eot"
   },
   {
-    "revision": "e0fc4e5c719b4dc10c97fc111d7374e1",
-    "url": "/static/media/fa-brands-400.e0fc4e5c.ttf"
+    "revision": "f319eac1c755f9929fd856720ce1695e",
+    "url": "/static/media/fa-brands-400.f319eac1.woff2"
   },
   {
-    "revision": "aaa00878c59bb9b2cc04",
-    "url": "/static/js/main.aaa00878.chunk.js"
+    "revision": "d034c1b2ee84dd981ef2e637754a0b4f",
+    "url": "/static/media/fa-brands-400.d034c1b2.woff"
+  },
+  {
+    "revision": "1bffc5d6ae80de8e0b5a",
+    "url": "/static/js/main.1bffc5d6.chunk.js"
+  },
+  {
+    "revision": "e0fc4e5c719b4dc10c97fc111d7374e1",
+    "url": "/static/media/fa-brands-400.e0fc4e5c.ttf"
   },
   {
     "revision": "a3715c6fe264a51f1d9260b447ff46bc",
@@ -72,32 +76,28 @@ self.__precacheManifest = [
     "url": "/static/media/fa-regular-400.6534c603.ttf"
   },
   {
-    "revision": "e9d8dbb0c3e9b97ffc59c50ff5d01422",
-    "url": "/static/media/fa-regular-400.e9d8dbb0.svg"
-  },
-  {
     "revision": "d9824d00712532d7697df68df16ae0d3",
     "url": "/static/media/fa-solid-900.d9824d00.eot"
-  },
-  {
-    "revision": "a999c7b8823b901248833dc7fe07a52f",
-    "url": "/static/media/fa-brands-400.a999c7b8.svg"
-  },
-  {
-    "revision": "128d2b0be23925e5cf36717ddc6f093b",
-    "url": "/static/media/fa-solid-900.128d2b0b.woff"
   },
   {
     "revision": "18d2347ab2a9f40ca2247cdb03303d84",
     "url": "/static/media/fa-solid-900.18d2347a.woff2"
   },
   {
-    "revision": "00ddaede094b83270cadbfc1a907e8ca",
-    "url": "/static/media/fa-solid-900.00ddaede.ttf"
+    "revision": "e9d8dbb0c3e9b97ffc59c50ff5d01422",
+    "url": "/static/media/fa-regular-400.e9d8dbb0.svg"
   },
   {
-    "revision": "f319eac1c755f9929fd856720ce1695e",
-    "url": "/static/media/fa-brands-400.f319eac1.woff2"
+    "revision": "128d2b0be23925e5cf36717ddc6f093b",
+    "url": "/static/media/fa-solid-900.128d2b0b.woff"
+  },
+  {
+    "revision": "a999c7b8823b901248833dc7fe07a52f",
+    "url": "/static/media/fa-brands-400.a999c7b8.svg"
+  },
+  {
+    "revision": "00ddaede094b83270cadbfc1a907e8ca",
+    "url": "/static/media/fa-solid-900.00ddaede.ttf"
   },
   {
     "revision": "666a82cb3e9f8591bef4049aea26c4c6",
@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/static/media/bg.c4d95587.png"
   },
   {
-    "revision": "97796bca34799ea03ed7272201fcfca0",
+    "revision": "839a52fb0ad17b716133d25e60df1bc7",
     "url": "/index.html"
   }
 ];
