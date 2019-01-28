@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/fa-brands-400.e0fc4e5c.ttf"
   },
   {
-    "revision": "a856580e71fe31faa261",
+    "revision": "a61ca3e0d8b678656045",
     "url": "/static/css/main.d7479d7f.chunk.css"
   },
   {
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/static/media/fa-brands-400.d034c1b2.woff"
   },
   {
-    "revision": "a856580e71fe31faa261",
-    "url": "/static/js/main.a856580e.chunk.js"
+    "revision": "a61ca3e0d8b678656045",
+    "url": "/static/js/main.a61ca3e0.chunk.js"
   },
   {
     "revision": "5a4618f029618cc2795c05fe53d57028",
@@ -68,6 +68,10 @@ self.__precacheManifest = [
     "url": "/static/media/fa-regular-400.e99569d3.woff"
   },
   {
+    "revision": "a3715c6fe264a51f1d9260b447ff46bc",
+    "url": "/static/media/fa-regular-400.a3715c6f.woff2"
+  },
+  {
     "revision": "6534c603e0892488132ad57248ec69e2",
     "url": "/static/media/fa-regular-400.6534c603.ttf"
   },
@@ -76,28 +80,24 @@ self.__precacheManifest = [
     "url": "/static/media/fa-regular-400.e9d8dbb0.svg"
   },
   {
-    "revision": "a3715c6fe264a51f1d9260b447ff46bc",
-    "url": "/static/media/fa-regular-400.a3715c6f.woff2"
-  },
-  {
-    "revision": "18d2347ab2a9f40ca2247cdb03303d84",
-    "url": "/static/media/fa-solid-900.18d2347a.woff2"
+    "revision": "128d2b0be23925e5cf36717ddc6f093b",
+    "url": "/static/media/fa-solid-900.128d2b0b.woff"
   },
   {
     "revision": "d9824d00712532d7697df68df16ae0d3",
     "url": "/static/media/fa-solid-900.d9824d00.eot"
   },
   {
-    "revision": "a999c7b8823b901248833dc7fe07a52f",
-    "url": "/static/media/fa-brands-400.a999c7b8.svg"
-  },
-  {
-    "revision": "128d2b0be23925e5cf36717ddc6f093b",
-    "url": "/static/media/fa-solid-900.128d2b0b.woff"
+    "revision": "18d2347ab2a9f40ca2247cdb03303d84",
+    "url": "/static/media/fa-solid-900.18d2347a.woff2"
   },
   {
     "revision": "00ddaede094b83270cadbfc1a907e8ca",
     "url": "/static/media/fa-solid-900.00ddaede.ttf"
+  },
+  {
+    "revision": "a999c7b8823b901248833dc7fe07a52f",
+    "url": "/static/media/fa-brands-400.a999c7b8.svg"
   },
   {
     "revision": "666a82cb3e9f8591bef4049aea26c4c6",
@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/static/media/bg.c4d95587.png"
   },
   {
-    "revision": "16e6950eb0ebb8f0a497c4c9ec321500",
+    "revision": "f48e1128784ee26ca159ae18402319d4",
     "url": "/index.html"
   }
 ];
