@@ -8,3 +8,4 @@ Allow: /*/*.css
 Allow: /*/*.png
 Allow: /*/*.jpg
 Allow: /*/*.svg
+Disallow: /404.html
