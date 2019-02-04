@@ -1,5 +1,5 @@
-Host: https://mttv.github.io/
-Sitemap: https://mttv.github.io/sitemap.xml
+Host: https://mttvapp.com/
+Sitemap: https://mttvapp.com/sitemap.xml
 
 User-agent: *
 Allow: /*/*.html
