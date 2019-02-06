@@ -6,7 +6,7 @@
   "static/js/1.2f8a8e9b.chunk.js.map": "/static/js/1.2f8a8e9b.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/libs.css": "/static/media/fa-regular-400.5a4618f0.eot",
+  "static/media/libs.css": "/static/media/fa-solid-900.666a82cb.svg",
   "static/media/logo.webp": "/static/media/logo.8bde61bd.webp",
   "static/media/bttv.png": "/static/media/bttv.fac49ab2.png",
   "static/media/screen.webp": "/static/media/screen.e2e2c879.webp",
@@ -17,6 +17,6 @@
   "static/media/App.css": "/static/media/bg.c4d95587.png",
   "static/css/main.b598d844.chunk.css.map": "/static/css/main.b598d844.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.558b871352da1a37f5d2e5a8c5e80b2a.js": "/precache-manifest.558b871352da1a37f5d2e5a8c5e80b2a.js",
+  "precache-manifest.ef1e485553f2b214c822f8397e1ea46c.js": "/precache-manifest.ef1e485553f2b214c822f8397e1ea46c.js",
   "service-worker.js": "/service-worker.js"
 }
